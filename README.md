@@ -1,0 +1,1 @@
+from: https://vanderoost.com/articles/2026/09/11/histogram-plotting-in-the-terminal/
